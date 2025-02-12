@@ -48,7 +48,7 @@ Being involved as a junior software tester at StudyZi Estonia marked my first pr
 -	[Test plan](https://drive.google.com/file/d/1ud8308ErQSJMsLDSNK9_njdsgWzWMKhf/view?usp=sharing) 
 -	[Test case](https://drive.google.com/file/d/1pKoozKmf-BVCMgyce4_1qRsn5YREFm8g/view?usp=sharing) 
 -	[Bug report](https://docs.google.com/spreadsheets/d/1P5C-L33qYZ9g7HSgtbTvqJAq7ObkZ11MDkVf6_b9Iok/edit?usp=sharing)
--	[Test report]()
+-	[Test report](https://drive.google.com/file/d/160NJKNEQwPqKarKbyX692ajtTRNLapz-/view?usp=sharing)
 2.	Presta Shop
 -	[Test plan]()
 -	[Test case]()
