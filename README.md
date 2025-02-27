@@ -41,7 +41,7 @@ Being involved as a junior software tester at StudyZi Estonia marked my first pr
 
 ## Courses and Certificates 📘
 - [QA Training]([https://www.linkedin.com/learning/programming-foundations-software-testing-qa](https://quilted-waterfall-12e.notion.site/176cb7264df780ad8945db4c9e76a561?pvs=4))
-- [Postman]() - REST API Testing
+- [Postman](https://www.postman.com/) - REST API Testing
   
 ## Samples 🔭
 1.	GTPL Bank
@@ -50,8 +50,8 @@ Being involved as a junior software tester at StudyZi Estonia marked my first pr
 -	[Bug report](https://docs.google.com/spreadsheets/d/1P5C-L33qYZ9g7HSgtbTvqJAq7ObkZ11MDkVf6_b9Iok/edit?usp=sharing)
 -	[Test report](https://drive.google.com/file/d/160NJKNEQwPqKarKbyX692ajtTRNLapz-/view?usp=sharing)
 2.	Presta Shop
--	[Test plan]()
--	[Test case]()
--	[Bug report]()
--	[Test report]()
+-	[Test plan](https://drive.google.com/file/d/1gAMhCComYo4mKGJ2O_RuIV-RW9cblOXo/view?usp=sharing)
+-	[Test case](https://drive.google.com/file/d/10jldpRbBBuos666URDMzLO71IL4YTAN9/view?usp=sharing)
+-	[Bug report](https://docs.google.com/spreadsheets/d/19h4IFilScQIYBzXRGuEfcnCXJMiLR792rRN8pdEv1bc/edit?usp=sharing)
+-	[Test report](https://drive.google.com/file/d/1OZLX4ddeLUZa7BJreA33cHIQOqNw7skT/view?usp=sharing)
 
