@@ -40,7 +40,7 @@ Being involved as a tester at StudyZi Estonia marked my first professional role 
 - Empathy
 
 ## Courses and Certificates 📘
-- [QA Training]([https://www.linkedin.com/learning/programming-foundations-software-testing-qa](https://quilted-waterfall-12e.notion.site/176cb7264df780ad8945db4c9e76a561?pvs=4))
+- [QA Training](https://quilted-waterfall-12e.notion.site/Sample-of-documentations-1accb7264df780bb84d7e6fc7e170905?pvs=4)
 - [Postman](https://www.postman.com/) - REST API Testing
   
 ## Samples 🔭
