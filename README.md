@@ -6,7 +6,7 @@ Hi, my name is Aini, since late 2024, I’ve been exploring the world of Quality
 In this portfolio, I aim to share the knowledge I’ve gained about QA and showcase the practical skills I’ve developed through courses, self-study, and hands-on experience. I’m committed to continuing my growth in this field. Currently, I’m also diving into test automation, and my main focus is on deepening my knowledge and honing my skills in this area.
 
 ## My Experience 🏢
-Being involved as a junior software tester at StudyZi Estonia marked my first professional role focused entirely on QA. During this time, I experienced significant growth in both technical and soft skills, such as developing strong analytical thinking and gaining hands-on experience in testing. In my previous job, one of my key responsibilities was ensuring the proper functioning of internal systems and reporting any bugs or defects to the relevant manager. I became very fond of this role, which ultimately sparked my interest in pursuing a career in QA. Although my previous experience wasn't directly in IT, it helped me build valuable soft skills that I now apply in my QA work.
+Being involved as a tester at StudyZi Estonia marked my first professional role focused entirely on QA. During this time, I experienced significant growth in both technical and soft skills, such as developing strong analytical thinking and gaining hands-on experience in testing. In my previous job, one of my key responsibilities was ensuring the proper functioning of internal systems and reporting any bugs or defects to the relevant manager. I became very fond of this role, which ultimately sparked my interest in pursuing a career in QA. Although my previous experience wasn't directly in IT, it helped me build valuable soft skills that I now apply in my QA work.
 
 ## Tools 🔧
 - [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/?campaign=18416577516&adgroup=142092507816&targetid=kwd-3609071522&matchtype=e&network=g&device=c&device_model=&creative=672183077508&keyword=trello&placement=&target=&ds_eid=700000001557344&ds_e1=GOOGLE&gad_source=1&gclid=Cj0KCQiAhvK8BhDfARIsABsPy4jAwfdKjMVEgKqrZLt40V0ly2NaVhH3vwL-zyc9cZzskcJ1MvgEuI8aAv59EALw_wcB) - project management
@@ -44,14 +44,15 @@ Being involved as a junior software tester at StudyZi Estonia marked my first pr
 - [Postman](https://www.postman.com/) - REST API Testing
   
 ## Samples 🔭
-1.	GTPL Bank
+1.	Luxora
+-	[Test plan](https://drive.google.com/file/d/1i8rSb_BJ8_4W6ZIOHjJpAr62HL6YMw9U/view?usp=sharing)
+-	[Scenario and test case](https://docs.google.com/spreadsheets/d/1jnSP336S5lUUvRsLGJF1XaFcI2cjCduoePIZcyO_ECg/edit?usp=sharing)
+-	[Bug report](https://docs.google.com/spreadsheets/d/14Bdf6Q85rdxQVcrjzWUtbrSLXpXJHUiBlUm7UyDblhc/edit?usp=sharing)
+-	[Test report](https://drive.google.com/file/d/1OZLX4ddeLUZa7BJreA33cHIQOqNw7skT/view?usp=sharing)
+2.	GTPL Bank
 -	[Test plan](https://drive.google.com/file/d/1ud8308ErQSJMsLDSNK9_njdsgWzWMKhf/view?usp=sharing) 
 -	[Test case](https://drive.google.com/file/d/1pKoozKmf-BVCMgyce4_1qRsn5YREFm8g/view?usp=sharing) 
 -	[Bug report](https://docs.google.com/spreadsheets/d/1P5C-L33qYZ9g7HSgtbTvqJAq7ObkZ11MDkVf6_b9Iok/edit?usp=sharing)
 -	[Test report](https://drive.google.com/file/d/160NJKNEQwPqKarKbyX692ajtTRNLapz-/view?usp=sharing)
-2.	Presta Shop
--	[Test plan](https://drive.google.com/file/d/1gAMhCComYo4mKGJ2O_RuIV-RW9cblOXo/view?usp=sharing)
--	[Test case](https://drive.google.com/file/d/10jldpRbBBuos666URDMzLO71IL4YTAN9/view?usp=sharing)
--	[Bug report](https://docs.google.com/spreadsheets/d/19h4IFilScQIYBzXRGuEfcnCXJMiLR792rRN8pdEv1bc/edit?usp=sharing)
--	[Test report](https://drive.google.com/file/d/1OZLX4ddeLUZa7BJreA33cHIQOqNw7skT/view?usp=sharing)
+
 
