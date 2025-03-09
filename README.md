@@ -6,7 +6,6 @@ Hi, my name is Aini, since late 2024, I’ve been exploring the world of Quality
 In this portfolio, I aim to share the knowledge I’ve gained about QA and showcase the practical skills I’ve developed through courses, self-study, and hands-on experience. I’m committed to continuing my growth in this field. Currently, I’m also diving into test automation, and my main focus is on deepening my knowledge and honing my skills in this area.
 
 ## My Experience 🏢
-Being involved as a tester at StudyZi Estonia marked my first professional role focused entirely on QA. During this time, I experienced significant growth in both technical and soft skills, such as developing strong analytical thinking and gaining hands-on experience in testing. In my previous job, one of my key responsibilities was ensuring the proper functioning of internal systems and reporting any bugs or defects to the relevant manager. I became very fond of this role, which ultimately sparked my interest in pursuing a career in QA. Although my previous experience wasn't directly in IT, it helped me build valuable soft skills that I now apply in my QA work.
 
 ## Tools 🔧
 - [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/?campaign=18416577516&adgroup=142092507816&targetid=kwd-3609071522&matchtype=e&network=g&device=c&device_model=&creative=672183077508&keyword=trello&placement=&target=&ds_eid=700000001557344&ds_e1=GOOGLE&gad_source=1&gclid=Cj0KCQiAhvK8BhDfARIsABsPy4jAwfdKjMVEgKqrZLt40V0ly2NaVhH3vwL-zyc9cZzskcJ1MvgEuI8aAv59EALw_wcB) - project management
